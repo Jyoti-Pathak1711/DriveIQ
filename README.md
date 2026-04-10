@@ -36,6 +36,9 @@ DriveIQ is an intelligent reporting ecosystem designed to transform 14 years of 
 3. Optimal Config: Data identifies Blue | Hybrid | Automatic as the most profitable combination for future production.
 
 ## Screenshots
+1. Dasboard Screenshots []
+2. Agent Screenshots []
+3. Agent Testing Screenshots []
 
 ## 📁 Repository Structure
 ├── Data/                   # Cleaned Excel dataset
